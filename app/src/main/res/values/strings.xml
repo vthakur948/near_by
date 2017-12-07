@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">NearBY</string>
+    <string name="title_activity_maps">Near By</string>
+    <string name="title_activity_maps2">Map</string>
+    <string name="title_activity_maps11">Map</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_maps_activityhospital">Map</string>
+    <string name="title_activity_maps_re">Map</string>
+    <string name="title_activity_maps_park">Map</string>
+    <string name="title_activity_maps_hotel">Map</string>
+    <string name="title_activity_maps_petrol">Map</string>
+    <string name="title_activity_maps_atm">Map</string>
+    <string name="banner_ad_unit_id">ca-app-pub-6623456633842176/8506259149</string>
+    <string name="admob_interstitial_id">ca-app-pub-6623456633842176/9823387853</string>
+    <string name="native_ad_unit_id">ca-app-pub-6623456633842176/1230581965</string>
+    <string name="video_ad_unit_id">ca-app-pub-6623456633842176/1996868727</string>
+</resources>
